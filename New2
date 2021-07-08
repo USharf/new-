@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <title>Welcome to Sharf's den</title>
+    </head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    <body>
+    
+    <marquee> Hello, Welcome to my Den</marquee>
+    <section class= "container">   
+           <div class ="half-width">  <h1> <span class = "sharf"> Sharf's Den </span> </h1>
+             <h3> Take my cordial love🙂</h3>
+             <p> 
+             Hello, I am Sharf Ud-deen. I am from Bangladesh.
+             I recently graduated from Higher Secondary School.
+             Now, I am applying to Universities to start my undergraduate journey.
+             But, I do have some interest in Web Development.
+             So, I started to learn Web development. And, I want to be a good developer within a few months.
+             
+         
+              </p>
+             <a class="primary-btn" href=" https://Facebook.com/USharf ">Hire me</a> 
+             </div>
+              
+              <div class= "half-height"> 
+              <img class ="side-img" src="images/profile.jpg" alt="Sharf Ud-deen"</img>
+               </div>
+               
+                </section>
+                
+                <section class="container">  
+                
+                <div class= "half-width">  
+                <img class= "side-imgs" src="images/contest.jpg" alt=" On a Contest with team members </img>
+               </div>
+               
+               <div class= "half-height"> 
+                <h2>DREAM BIG </h2>
+             <h4 class= "design"> Become a Web Developer </h4>
+             <p> I already learned basic HTML and CSS. I can make simple websites using these languages. And, my dream is to make 3 more websites and learn advance to become professional Web Developer </p>
+             <a class= "primary-btn" href="sharfarsalan@gmail.com"> E-mail me </a>
+                </div>
+                </section>
+                
+                <section class= "container experience">  
+                <h2> Experiences </h2>
+                <div class= "Experience item">
+                <h3> Full stack Web-developer </h3>
+                <p> 2020-Present | Pro-level developer </p>
+                <p>I am the master of HTML, CSS, JavaScript and so on. I did so much work on this platform. I know and I implemented lastest Java frameworks and my clients are satisfied with my work. You can believe me and you will be pleased</p>
+                <p>They didn't offer me a job. So, I started working remote. I showed them my website and became pleased with my work. Moreover, they published my websites. It's great to learn with programming hero</p>
+                  </div>
+                
+                </section>
+             <a class= "play" href= "YouTube.com">   <img src="images/youtube.jpg">  </img> </a>
+              
+                
+    </body> </link>
+    <footer class= "footer"> ©️Sharf Ud-deen, 2021
+                All right reserved.
+    </footer>
+</html>
+
+
+
